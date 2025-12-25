@@ -1,2 +1,1 @@
-# CodSoft
-Python Internship Projects for CodSoft June 2025
+Security Analyst Internship Tasks
